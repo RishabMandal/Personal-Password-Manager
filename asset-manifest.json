@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Personal-Password-Manager/static/css/main.5c976230.css",
-    "main.js": "/Personal-Password-Manager/static/js/main.e86c3d29.js",
+    "main.css": "/Personal-Password-Manager/static/css/main.9bcae101.css",
+    "main.js": "/Personal-Password-Manager/static/js/main.0aa68619.js",
     "static/js/787.ddb669a1.chunk.js": "/Personal-Password-Manager/static/js/787.ddb669a1.chunk.js",
     "static/media/backgroundimg.png": "/Personal-Password-Manager/static/media/backgroundimg.7e9444401dcbaf7f5ca3.png",
     "static/media/Logo1.png": "/Personal-Password-Manager/static/media/Logo1.647d4881e15e36b3b3fe.png",
     "static/media/Passgenerator.svg": "/Personal-Password-Manager/static/media/Passgenerator.1ba556d4e445a2393aabeffcfdf1759b.svg",
     "static/media/safety.svg": "/Personal-Password-Manager/static/media/safety.5f8cc696bbe99cd3120e3de8ba703136.svg",
     "index.html": "/Personal-Password-Manager/index.html",
-    "main.5c976230.css.map": "/Personal-Password-Manager/static/css/main.5c976230.css.map",
-    "main.e86c3d29.js.map": "/Personal-Password-Manager/static/js/main.e86c3d29.js.map",
+    "main.9bcae101.css.map": "/Personal-Password-Manager/static/css/main.9bcae101.css.map",
+    "main.0aa68619.js.map": "/Personal-Password-Manager/static/js/main.0aa68619.js.map",
     "787.ddb669a1.chunk.js.map": "/Personal-Password-Manager/static/js/787.ddb669a1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c976230.css",
-    "static/js/main.e86c3d29.js"
+    "static/css/main.9bcae101.css",
+    "static/js/main.0aa68619.js"
   ]
 }
